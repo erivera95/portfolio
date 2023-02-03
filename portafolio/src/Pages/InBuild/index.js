@@ -1,16 +1,12 @@
 import React from 'react'
-import './styles.css'
+import { InbuildContainer } from './inbuildContainer'
 
-const inBuild = () => {
+const InBuild = () => {
     return (
         <div>
-            <div class="loader">
-                <span class="loader__element"></span>
-                <span class="loader__element"></span>
-                <span class="loader__element"></span>
-            </div>
+            <InbuildContainer />
         </div>
     )
 }
 
-export default inBuild
+export default InBuild
