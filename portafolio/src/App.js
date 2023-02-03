@@ -8,8 +8,9 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-
           check desde surface
+          Cargado desde pc gamer
+          cambio desde pc
         </p>
         <a
           className="App-link"
